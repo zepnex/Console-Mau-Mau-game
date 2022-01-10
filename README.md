@@ -1,10 +1,10 @@
 # How to play
 ## Platzhalter
-< Seed >            Startwert für das Mischen als int-Zahl.
-< Ablagestapel >    Kennung der obersten Karte des Stapels.
-< Aufnahmestapel >  Ganzzahlige Anzahl von Karten auf dem Aufnahmestapel.
-< Nummer >          Nummer eines Spielers (1, 2, 3 oder 4).
-< Hand >            Kommagetrennte, nach Kennung lexikografisch sortierte Auflistung der Karten eines Spielers.
+< Seed >            Startwert für das Mischen als int-Zahl. <br>
+< Ablagestapel >    Kennung der obersten Karte des Stapels. <br>
+< Aufnahmestapel >  Ganzzahlige Anzahl von Karten auf dem Aufnahmestapel. <br>
+< Nummer >          Nummer eines Spielers (1, 2, 3 oder 4). <br>
+< Hand >            Kommagetrennte, nach Kennung lexikografisch sortierte Auflistung der Karten eines Spielers. <br>
 < Karte >           Kennung einer Karte
 
 ## Spiel starten
