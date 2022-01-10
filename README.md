@@ -11,11 +11,11 @@
 start < Seed >
 
 ## Stapel anzeigen
-show game
+show game <br>
 Ausgabe < Ablagestapel > / < Aufnahmestapel >
 
 ## Spieler anzeigen
-show < Nummer >
+show < Nummer > <br>
 Ausgabe < Hand >
 
 ## Karte ablegen
